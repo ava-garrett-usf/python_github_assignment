@@ -13,11 +13,11 @@ try:
 except ValueError:
     print("Please enter a valid integer for hours studied.")
     exit()
-# 6 Final Cleanup and comments
-# The code has 6 sections
+#6 Final comments 
+# This program has six sections
 #1 Welcome message
 #2 Hours studied input
 #3 Weekly goal calculation
 #4 display
-#5 Error handling  
-#6 Final Cleanup and comments
+#5 Error handling
+#6 Final comments
