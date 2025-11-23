@@ -7,7 +7,7 @@ hours_studied = float(hours_studied)
 weekly_studied = hours_studied * 7
 #4 display
 print(f"If you keep this momentum, you will study {weekly_studied} hours this week!")
-#5 Error handling
+#5 Error handling 
 try:
     hours_studied = float(hours_studied)
 except ValueError:
